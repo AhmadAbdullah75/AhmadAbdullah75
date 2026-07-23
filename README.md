@@ -12,27 +12,56 @@
 
 <br/>
 
-## 🎯 About
+<table width="100%">
+<tr>
+<td width="38%" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f24d.gif" width="100%"/>
+</td>
+<td width="62%" valign="middle">
 
-🎓 BS Software Engineering @ FAST-NUCES `(2023–2027)` · GPA 3.6 · 🥇 Gold Medalist
-👨‍🏫 Teaching Assistant — Database Systems & Software Design
-🤖 AI Automation Intern @ Xonfo Solutions · 🧠 Gen AI Intern @ Tefteq
-📄 Co-authoring a published ML research paper improvisation
+### 🎯 About Me
+
+🎓 **BS Software Engineering** @ FAST-NUCES `2023–2027` · GPA 3.6 · 🥇 **Gold Medalist**
+
+👨‍🏫 **Teaching Assistant** — Database Systems & Software Design
+
+🤖 **AI Automation Intern** @ Xonfo Solutions — building agentic n8n / RAG pipelines
+
+🧠 **Gen AI Intern** @ Tefteq — LangChain & local LLM apps
+
+📄 Co-authoring a **published ML research paper improvisation**
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 ## 🧰 Tech Stack
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,kotlin&theme=dark" height="55"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase&theme=dark" height="55"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,streamlit&theme=dark" height="55"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="30"/>
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,vercel,postman&theme=dark" height="55"/>
+**🧠 AI / Machine Learning**
+<div>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,streamlit&theme=dark" height="60"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="34"/>
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="34"/>
+</div>
+<br/>
+
+**🌐 Web & Mobile Development**
+<div>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,kotlin&theme=dark" height="60"/>
+</div>
+<br/>
+
+**💻 Programming Languages**
+<div>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark" height="60"/>
+</div>
+<br/>
+
+**⚙️ DevOps & Tools**
+<div>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,vercel,postman&theme=dark" height="60"/>
 </div>
 
 <br/>
@@ -111,7 +140,7 @@ Stemming, lemmatization, trigram similarity search.
 ## 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AhmadAbdullah75&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AhmadAbdullah75&theme=algolia&row=1&column=6&margin-w=8&margin-h=8"/>
 </div>
 
 <br/>
@@ -120,11 +149,19 @@ Stemming, lemmatization, trigram similarity search.
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=AhmadAbdullah75&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadAbdullah75&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=AhmadAbdullah75&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAbdullah75&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+
+<br/>
+
+## 📈 Contribution Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadAbdullah75&theme=react-dark&hide_border=true&area=true" width="100%"/>
 </div>
 
 <br/>
