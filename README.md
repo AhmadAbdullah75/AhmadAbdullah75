@@ -121,7 +121,7 @@ Real-time reporting across cafeterias, labs, parking.
 `Java` `MySQL` `NLP`
 Stemming, lemmatization, trigram similarity search.
 
-[GitHub](https://github.com/SoftwareConstructionAndDev/25f-prj-scd-tech-titans/)
+[GitHub](https://github.com/AhmadAbdullah75/Arabic_Prose_Management_System-Java_Application)
 
 </td>
 <td width="50%" valign="top">
