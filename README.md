@@ -37,33 +37,80 @@
 
 <br/>
 
-## 🧰 Tech Stack
+## 🛡️ Tech Stack
 
-**🧠 AI / Machine Learning**
-<div>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" height="70"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="40"/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="40"/>
-</div>
-<br/>
+<div align="center">
 
-**🌐 Web & Mobile Development**
-<div>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,kotlin&theme=dark" height="70"/>
-</div>
-<br/>
+### 💻 Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-**💻 Programming Languages**
-<div>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js&theme=dark" height="70"/>
-</div>
-<br/>
+---
 
-**⚙️ DevOps & Tools**
-<div>
-<img src="https://skillicons.dev/icons?i=docker,githubactions,git,github,vercel,postman&theme=dark" height="70"/>
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+---
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logoColor=white)
+
+---
+
+### 🤖 AI / ML / Gen AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+
+---
+
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
+
+---
+
+### 🏗️ Architecture & Design
+![UML](https://img.shields.io/badge/UML-FF6600?style=for-the-badge&logoColor=white)
+![SOLID Principles](https://img.shields.io/badge/SOLID_Principles-2C3E50?style=for-the-badge&logoColor=white)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-8A2BE2?style=for-the-badge&logoColor=white)
+
+---
+
+### 🛠️ DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-003f5c?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 </div>
 
 <br/>
@@ -78,6 +125,7 @@
 **SaaS task manager · live in production**
 `React` `Node.js` `MongoDB` `JWT`
 JWT auth, RBAC, deployed on Vercel + Railway.
+<br/>
 [Frontend](https://github.com/AhmadAbdullah75/orbit-frontend) · [Backend](https://github.com/AhmadAbdullah75/orbit-backend) · [Live ↗](https://orbit-frontend-app.vercel.app/)
 
 </td>
@@ -87,6 +135,7 @@ JWT auth, RBAC, deployed on Vercel + Railway.
 **Research replication + production deployment**
 `Python` `scikit-learn` `FastAPI` `Docker`
 Found a data leak inflating a paper's results — corrected accuracy to 95.65%, then deployed as a live product.
+<br/>
 [Research](https://github.com/AhmadAbdullah75/lung-cancer-replication-improvisation) · [Pulmo AI](https://github.com/AhmadAbdullah75/lung-cancer-api) · [Live ↗](https://lung-cancer-api.streamlit.app)
 
 </td>
@@ -98,6 +147,7 @@ Found a data leak inflating a paper's results — corrected accuracy to 95.65%, 
 **Hybrid NLP retrieval engine**
 `PyTorch` `TF-IDF` `GloVe` `Streamlit`
 374 queries/sec on dual T4 GPUs, built from scratch.
+<br/>
 [GitHub](https://github.com/AhmadAbdullah75/HSRIS-NLP-Assignment) · [Live ↗](https://ahmadabdullah27-hsris-nlp-assignment.hf.space/)
 
 </td>
@@ -107,6 +157,7 @@ Found a data leak inflating a paper's results — corrected accuracy to 95.65%, 
 **AI career-roadmap generator**
 `n8n` `Groq` `Google APIs`
 Generates a phased learning roadmap and tracks users through it with adaptive weekly check-in emails.
+<br/>
 [GitHub](https://github.com/AhmadAbdullah75/waymark-ai)
 
 </td>
@@ -118,6 +169,7 @@ Generates a phased learning roadmap and tracks users through it with adaptive we
 **Corrective RAG for medical Q&A**
 `LangChain` `RAG` `LLM`
 Retrieval-augmented system with a self-correction loop for grounded medical answers.
+<br/>
 [GitHub](https://github.com/AhmadAbdullah75/MedSage_CRAG-Application)
 
 </td>
@@ -127,19 +179,12 @@ Retrieval-augmented system with a self-correction loop for grounded medical answ
 **NLP for classical Arabic text**
 `Java` `MySQL` `NLP`
 Stemming, lemmatization, trigram similarity search.
+<br/>
 [GitHub](https://github.com/AhmadAbdullah75/Arabic_Prose_Management_System-Java_Application)
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-## 🏆 Achievements
-
-<div align="center">
-<img src="https://github-trophies.vercel.app/?username=AhmadAbdullah75&theme=algolia&row=1&column=6&margin-w=8&margin-h=8"/>
-</div>
 
 <br/>
 
