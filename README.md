@@ -78,60 +78,56 @@
 **SaaS task manager · live in production**
 `React` `Node.js` `MongoDB` `JWT`
 JWT auth, RBAC, deployed on Vercel + Railway.
-
 [Frontend](https://github.com/AhmadAbdullah75/orbit-frontend) · [Backend](https://github.com/AhmadAbdullah75/orbit-backend) · [Live ↗](https://orbit-frontend-app.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
+### 🩺 Lung Cancer ML + Pulmo AI
+**Research replication + production deployment**
+`Python` `scikit-learn` `FastAPI` `Docker`
+Found a data leak inflating a paper's results — corrected accuracy to 95.65%, then deployed as a live product.
+[Research](https://github.com/AhmadAbdullah75/lung-cancer-replication-improvisation) · [Pulmo AI](https://github.com/AhmadAbdullah75/lung-cancer-api) · [Live ↗](https://lung-cancer-api.streamlit.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🧬 HSRIS
 **Hybrid NLP retrieval engine**
 `PyTorch` `TF-IDF` `GloVe` `Streamlit`
-374 queries/sec on dual T4 GPUs, from scratch.
-
+374 queries/sec on dual T4 GPUs, built from scratch.
 [GitHub](https://github.com/AhmadAbdullah75/HSRIS-NLP-Assignment) · [Live ↗](https://ahmadabdullah27-hsris-nlp-assignment.hf.space/)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-### 🩺 Lung Cancer ML
-**Research replication + correction**
-`Python` `scikit-learn` `Ensembles`
-Found a data leak inflating a paper's results — fixed accuracy to 95.65%.
-
-[GitHub](https://github.com/AhmadAbdullah75/lung-cancer-replication-improvisation)
-
-</td>
-<td width="50%" valign="top">
-
-### 📱 FASTConnect
-**Live campus crowd tracker**
-`Kotlin` `Firebase` `Android`
-Real-time reporting across cafeterias, labs, parking.
+### 🗺️ Waymark
+**AI career-roadmap generator**
+`n8n` `Groq` `Google APIs`
+Generates a phased learning roadmap and tracks users through it with adaptive weekly check-in emails.
+[GitHub](https://github.com/AhmadAbdullah75/waymark-ai)
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 🩻 MedSage
+**Corrective RAG for medical Q&A**
+`LangChain` `RAG` `LLM`
+Retrieval-augmented system with a self-correction loop for grounded medical answers.
+[GitHub](https://github.com/AhmadAbdullah75/MedSage_CRAG-Application)
+
+</td>
 <td width="50%" valign="top">
 
 ### 📜 Arabic Prose System
 **NLP for classical Arabic text**
 `Java` `MySQL` `NLP`
 Stemming, lemmatization, trigram similarity search.
-
 [GitHub](https://github.com/AhmadAbdullah75/Arabic_Prose_Management_System-Java_Application)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 QuickPOS
-**11-stage CI/CD pipeline**
-`PHP` `GitHub Actions` `PHPUnit`
-16 automated tests, zero direct commits to main.
-
-[GitHub](https://github.com/f233027-droid/quickpos_landing)
 
 </td>
 </tr>
